@@ -4,8 +4,8 @@
 дом с огоньком рядом: именно поэтому знак остаётся собой в мелком размере, где
 от рисунка выживает только силуэт.
 
-Исходник — [assets/mark.svg](assets/mark.svg), для мелких размеров
-[assets/mark-small.svg](assets/mark-small.svg).
+Исходник — [../Shared/mark.svg](../Shared/mark.svg), для мелких размеров
+[../Shared/mark-small.svg](../Shared/mark-small.svg).
 
 ## Конструкция
 
